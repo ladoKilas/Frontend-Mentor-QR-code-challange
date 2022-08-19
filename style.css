@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Silkscreen&display=swap');
+
+
+
+
+body{
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    display: grid;
+    place-content: center;
+    font-family: 'Outfit', sans-serif;
+
+   
+
+}
+
+.main{
+    background-color: white;
+    border-radius: 10px;    
+   
+    
+    
+    
+}
+
+.content{
+    padding: 30px;
+    display: grid;
+   place-items: center;
+   width: 300px;
+   
+   
+}
+
+img{
+
+border-radius: 10px;
+}
+
+h2{
+    font-size: 20px;
+    width: 250px;
+}
+
+p{
+   
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
